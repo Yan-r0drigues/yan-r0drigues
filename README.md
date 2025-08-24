@@ -5,20 +5,6 @@
 Me chamo Yan P. A. Rodrigues, tenho 22 anos e sou natural do Rio de Janeiro, Brasil. Sempre fui apaixonado por tecnologia e jogos desde pequeno, o que despertou meu interesse em seguir carreira na área. Concluí o ensino médio com foco em informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, sempre em busca de aprender e evoluir como profissional de tecnologia.
 
 <p align="left">
-    <a href="https://www.instagram.com/_yanaguiar/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/yan-r0drigues">
-        <img 
-            alt="Linkedin" 
-            title="Me adicione no Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/yan-r0drigues?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
