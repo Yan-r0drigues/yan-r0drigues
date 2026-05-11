@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Yan Rodrigues
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Yan P. A. Rodrigues, tenho 22 anos e sou natural do Rio de Janeiro, Brasil. Sempre fui apaixonado por tecnologia e jogos desde pequeno, o que despertou meu interesse em seguir carreira na área. Concluí o ensino médio com foco em informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, sempre em busca de aprender e evoluir como profissional de tecnologia.
 
