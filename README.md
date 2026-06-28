@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Yan Rodrigues
 
-**Desenvolvedor Backend em formação | Python • C# • JavaScript • Git**
+**Desenvolvedor Backend | C# • ASP.NET Core • Git**
 
-Sou Yan P. A. Rodrigues, tenho 22 anos, sou do Rio de Janeiro, Brasil, e estou construindo minha trajetória como desenvolvedor backend.
+Sou Yan Rodrigues, tenho 23 anos, sou do Rio de Janeiro, Brasil, e estou construindo minha trajetória como desenvolvedor backend.
 
-Minha relação com tecnologia começou cedo, muito influenciada por jogos, curiosidade e vontade de entender como as coisas funcionam por trás da tela. Hoje curso **Análise e Desenvolvimento de Sistemas na Estácio** e sigo aprofundando meus estudos em desenvolvimento de software, lógica de programação, banco de dados e boas práticas de código.
+Minha relação com tecnologia começou cedo, muito influenciada por jogos, curiosidade e vontade de entender como as coisas funcionam por trás da tela. Hoje curso **Análise e Desenvolvimento de Sistemas** e sigo aprofundando meus estudos em desenvolvimento de software, lógica de programação, banco de dados e boas práticas de código.
 
-Atualmente estou focado em evoluir como backend developer, criando projetos práticos, estudando arquitetura de aplicações e fortalecendo minha base com tecnologias como **Python, C#, JavaScript, Git e fundamentos web**.
+Atualmente estou focado em evoluir como backend developer, criando projetos práticos, estudando arquitetura de aplicações e fortalecendo minha base com tecnologias como **C#, ASP.NET Core, SQL, Git e fundamentos web**.
 
 ---
 
@@ -27,7 +27,6 @@ Atualmente estou focado em evoluir como backend developer, criando projetos prá
   <img alt="CSS" title="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="C#" title="C#" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img alt="Git" title="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
